@@ -1,0 +1,11 @@
+table,td{
+    border: 1px solid black;
+
+}
+thead{
+    font-weight: bold;
+
+}
+tfoot{
+    font-weight: bold;
+}

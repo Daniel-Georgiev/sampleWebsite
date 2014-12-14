@@ -1,0 +1,12 @@
+table,td{
+    border: 1px solid black;
+}
+thead{
+    font-weight: bold;
+}
+table{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 70px;
+
+}

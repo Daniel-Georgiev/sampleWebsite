@@ -1,0 +1,10 @@
+table,td{
+    border: 1px solid black;
+}
+thead{
+    font-weight: bold;
+}
+table{
+    margin-top: 20px;
+    margin-left: 20px;
+}
